@@ -1,0 +1,46 @@
+{
+ "how_it_works": "Needs are scored from hero data already in our database: role and lane, skill effect tags, Moonton's published hero ratings, and a curated pass for the judgement calls no column carries. Heroes are ranked by how much of your team's gap they close, nudged by current win rates in the selected bracket. Nothing here is written by an AI.",
+ "faqs": [
+  {
+   "question": "What makes a good team composition in Mobile Legends?",
+   "answer": "A good composition covers the jobs a fight requires rather than stacking the strongest heroes. At minimum you want one hero who can hold the front, at least one reliable hard CC ability, a mix of physical and magic damage, someone who can take turrets, and a jungler. If your five picks between them tick those boxes, you have a workable comp regardless of who is meta."
+  },
+  {
+   "question": "Why does my team keep losing teamfights even though we're ahead?",
+   "answer": "Usually because your composition has no frontline or no reliable crowd control, so the fight is decided by who gets focused first — and being ahead does not protect a squishy hero from being jumped. A gold lead only converts into wins if someone can absorb the opening and something can hold the enemy still. Check whether anyone on your team is genuinely rated to hold the front, or whether you have five heroes who all die when touched."
+  },
+  {
+   "question": "Do I really need a tank every game?",
+   "answer": "You need frontline capacity, which usually means a tank but does not have to. A durable fighter who the enemy is forced to deal with can cover it — Uranus and Esmeralda rate maximum frontline in the database and neither is played like a traditional roamer. What you cannot do is have nobody: a comp with zero frontline loses fights it was otherwise winning."
+  },
+  {
+   "question": "How many magic damage heroes should a team have?",
+   "answer": "Aim for magic to be roughly 40% of your team's damage, and anywhere in the 25–65% range is fine. That usually means one mid-lane mage plus a magic-damage roamer or jungler, but it depends on how much damage each hero actually deals — one mage who deals all your damage counts far more than a magic-damage tank. The number to avoid is zero, in either direction."
+  },
+  {
+   "question": "Is it bad to have two tanks?",
+   "answer": "It is not scored as a problem by itself, but it costs you elsewhere. Two tanks means one fewer damage dealer, and the failure shows up as low damage output or missing turret damage — you win fights and cannot close the game. Two tanks works when the second one brings something the first does not, like pick-off or heavy engage."
+  },
+  {
+   "question": "Can you have too much crowd control?",
+   "answer": "Practically, no — extra CC is never scored as a gap. What actually happens is that a CC-stacked comp quietly runs out of damage, because CC-heavy heroes are usually tanks and supports. Watch the damage output rather than the CC count."
+  },
+  {
+   "question": "What is peel and why does my team need it?",
+   "answer": "Peel is protecting your own carry — pulling them out of danger, shielding them, or punishing the hero who dove them. Without it your gold laner farms for twelve minutes and then dies in the first three seconds of every fight after that, which wastes the entire investment. Angela, Diggie, Lolita and Chou are among the strongest peelers in the database."
+  },
+  {
+   "question": "Does team composition matter in solo queue?",
+   "answer": "Yes, more than in a coordinated team, because composition is the part of the game that works without anyone communicating. Coordinated plays fail in solo queue; a hero who can wave clear still clears waves whether or not anyone is talking to you. That is why picking to fill a gap beats picking your best hero when the gap is a big one."
+  },
+  {
+   "question": "Should I pick to counter the enemy or to fix my own composition?",
+   "answer": "Fix your own composition first when the gap is a hard one — no frontline, no hard CC, no jungler. Countering an enemy pick is worth less than being able to fight at all, and a counter-pick that leaves your team with no frontline has cost you more than it gained. This tool deliberately only looks at your side for that reason."
+  },
+  {
+   "question": "My team has no jungler and we're already at five picks. What now?",
+   "answer": "Nothing in the draft can fix it; it becomes a play problem. Someone with clear-speed takes the camps and gives up lane pressure, and the team plays for the mid game before the missing farm compounds. It is worth checking before you lock in your last pick, which is exactly when the tool starts warning about it."
+  }
+ ],
+ "fetched_at": "2026-11-19T10:51:28.711875+00:00"
+}
